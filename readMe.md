@@ -58,11 +58,13 @@ Included visual outputs:
 - Cross-validation heatmaps for model performance
 - Confusion matrices (custom + scikit-learn)
 - Performance over radius (`r`) for rNN
-
-Example charts:
-- ![Accuracy vs K](./images/knn_accuracy_k.png)
-- ![F1 vs K](./images/knn_f1_k.png)
-- ![Confusion Matrix](./images/cm_euclidean.png)
+![asd](https://github.com/user-attachments/assets/9e5d2007-b09e-423c-bd6b-de51f69a5f7c)
+![asddasd](https://github.com/user-attachments/assets/bfbc9a8a-5a58-4485-8535-e3b1783090a2)
+![dwdwdw](https://github.com/user-attachments/assets/2e1e7182-2e4e-4f00-b74d-b8039fd21448)
+![ded](https://github.com/user-attachments/assets/1e3464ea-3db7-4a66-b7da-8a0db056ea4e)
+![ddsds](https://github.com/user-attachments/assets/abc83593-a2d6-403d-87df-7358caf8194a)
+![asdsdadsa](https://github.com/user-attachments/assets/39d9a38f-fbfe-47a4-85ca-d84fc190367a)
+![asdsadasdasd](https://github.com/user-attachments/assets/b0f4837f-0a47-4e6d-a2cd-5d985b9de993)
 
 ---
 
